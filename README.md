@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Farid Ghattas 👋
+### Data Analyst | Automotive Industry Specialist 🚗📊
 
-<!--
-**faridghattas/faridghattas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between deep automotive domain knowledge and data-driven decision-making. My goal is to transform complex vehicle data into actionable insights that optimize fleet performance and market pricing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Toolbox
+- **Data Analysis:** Python (Pandas, NumPy), Excel (Advanced).
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn.
+- **Databases:** SQL (PostgreSQL, MySQL).
+- **Machine Learning:** Predictive Modeling for Maintenance & Pricing.
+
+---
+
+### 🎯 Automotive Focus Areas
+- **Predictive Maintenance:** Reducing downtime through sensor data analysis.
+- **Market Trends:** Analyzing resale values and supply chain dynamics.
+- **Fleet Management:** Fuel consumption optimization and cost reduction.
+
+---
+
+### 📫 Connect with me:
+- [LinkedIn](https://linkedin.com)
+- [Kaggle](https://kaggle.com)
