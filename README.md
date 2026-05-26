@@ -16,7 +16,7 @@ I leverage Python, SQL, and predictive analytics to uncover hidden operational e
 
 ## 🚗 Featured Data Portfolio
 
-### 🧠 Predictive Analytics & Deep Learning (Advanced Projects)
+### 🧠 Predictive Analytics & Machine Learning & Deep Learning (Advanced Projects)
 * **[NASA Jet Engine RUL Prediction: From Baseline to Deep Learning](https://github.com/faridghattas/nasa-cmapss-rul-prediction)** ✈️🛠️
   Designed a 3-stage optimization engine using the benchmark **NASA CMAPSS** dataset to predict the Remaining Useful Life (RUL) of turbofan engines.
 Conducted empirical threshold sweeping, optimized data structures via **RobustScaler**, and engineered a temporal 3D sliding window for a Deep Learning
