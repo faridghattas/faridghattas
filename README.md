@@ -17,6 +17,9 @@ I leverage Python, SQL, and predictive analytics to uncover hidden operational e
 ## 🚗 Featured Data Portfolio
 
 ### 🧠 Predictive Analytics & Machine Learning & Deep Learning (Advanced Projects)
+* **[CWRU Bearing Vibration Fault Detection: DSP & Physics-Informed AI](https://github.com/faridghattas/CWRU-Bearing-Vibration-Fault-Detection)** 📊🛠️
+  Developed an industrial-grade mechanical health monitoring pipeline using the benchmark **CWRU Dataset**. Implemented **Fast Fourier Transform (FFT)** and **Envelope Analysis (Hilbert Transform Demodulation)** to isolate high-frequency mechanical shock signatures (BPFI/BPFO). Built a physics-informed classifier optimized through systematic time-window scaling ($\Delta f$ contraction from $5.85\text{ Hz}$ to $1.46\text{ Hz}$), achieving **94% accuracy** in deterministic defect isolation.
+
 * **[NASA Jet Engine RUL Prediction: From Baseline to Deep Learning](https://github.com/faridghattas/nasa-cmapss-rul-prediction)** ✈️🛠️
   Designed a 3-stage optimization engine using the benchmark **NASA CMAPSS** dataset to predict the Remaining Useful Life (RUL) of turbofan engines.
 Conducted empirical threshold sweeping, optimized data structures via **RobustScaler**, and engineered a temporal 3D sliding window for a Deep Learning
