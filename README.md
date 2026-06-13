@@ -8,7 +8,7 @@ I leverage Python, SQL, and predictive analytics to uncover hidden operational e
 
 ## 🛠️ Technical Toolbox
 - **Data Analysis:** Python (Pandas, NumPy, SciPy), SQL
-- **Machine Learning & Deep Learning:** Scikit-Learn (Random Forest, SVM, KNN), TensorFlow, Keras (LSTM)
+- **Machine Learning & Deep Learning:** Scikit-Learn (Random Forest, One-Class SVM, Isolation Forest, KNN), TensorFlow, Keras (LSTM)
 - **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
 - **Platforms & Tools:** Git, GitHub, Jupyter Notebook, Kaggle
 
@@ -17,6 +17,9 @@ I leverage Python, SQL, and predictive analytics to uncover hidden operational e
 ## 🚗 Featured Data Portfolio
 
 ### 🧠 Predictive Analytics & Machine Learning & Deep Learning (Advanced Projects)
+* **[MetroPT3 Air Compressor Anomaly Detection: Unsupervised Predictive Maintenance](https://github.com/faridghattas/MetroPT3-Air-Compressor-Anomaly-Detection)** 🚇⚙️
+  Engineered a physics-informed anomaly detection pipeline for a metro train's braking air compressor using the benchmark **MetroPT Dataset**. Implemented **One-Class SVM (RBF Kernel)** and optimized training execution via 10% stratified sampling to bypass high computational complexity ($O(N^2)$). Successfully captured multivariate degradation trends and air leak signatures, boosting failure **Recall from 2% (Baseline Isolation Forest) to 99%** 🚀. Developed a live interactive **Streamlit Dashboard** for real-time telemetry tracking and failure alert deployment.
+
 * **[CWRU Bearing Vibration Fault Detection: DSP & Physics-Informed AI](https://github.com/faridghattas/CWRU-Bearing-Vibration-Fault-Detection)** 📊🛠️
   Developed an industrial-grade mechanical health monitoring pipeline using the benchmark **CWRU Dataset**. Implemented **Fast Fourier Transform (FFT)** and **Envelope Analysis (Hilbert Transform Demodulation)** to isolate high-frequency mechanical shock signatures (BPFI/BPFO). Built a physics-informed classifier optimized through systematic time-window scaling ($\Delta f$ contraction from $5.85\text{ Hz}$ to $1.46\text{ Hz}$), achieving **94% accuracy** in deterministic defect isolation.
 
