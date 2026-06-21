@@ -15,8 +15,7 @@ I leverage Python, SQL, and predictive analytics to uncover hidden operational e
 ---
 
 ## 🚗 Featured Data Portfolio
-## 🏆 Core Industrial & Predictive Maintenance Projects
-### 🧠 Predictive Analytics & Machine Learning & Deep Learning (Advanced Projects)
+### 🧠 Advanced Predictive Maintenance (Machine Learning & Deep Learning).
 * **[MetroPT3 Air Compressor Anomaly Detection: Unsupervised Predictive Maintenance](https://github.com/faridghattas/MetroPT3-Air-Compressor-Anomaly-Detection)** 🚇⚙️
   Engineered a physics-informed anomaly detection pipeline for a metro train's braking air compressor using the benchmark **MetroPT Dataset**. Implemented **One-Class SVM (RBF Kernel)** and optimized training execution via 10% stratified sampling to bypass high computational complexity ($O(N^2)$). Successfully captured multivariate degradation trends and air leak signatures, boosting failure **Recall from 2% (Baseline Isolation Forest) to 99%** 🚀. Developed a live interactive **Streamlit Dashboard** for real-time telemetry tracking and failure alert deployment.
 
