@@ -1,5 +1,5 @@
 # Hi there, I'm Farid Ghattas 👋
-### Automotive Engineer | Predictive Maintenance & Industrial Analytics Specialist 🚗📊
+### Mechanical Engineer | Predictive Maintenance & Industrial data Analytics Specialist  🚗📊
 Passionate about bridging the gap between mechanical domain expertise and data science. I leverage Python, SQL, and Machine Learning to build physics-informed pipelines that detect anomalies, predict equipment RUL, and optimize industrial efficiency.
 
 ---
