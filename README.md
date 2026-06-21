@@ -1,5 +1,5 @@
 # Hi there, I'm Farid Ghattas 👋
-### Automotive Engineer (Data Science Transition) | Predictive Maintenance Specialist (Junior Level) 🚗📊
+### Automotive Engineer (Data Science Transition) | Reliability & Predictive Maintenance Analytics Specialist.Predictive Maintenance Specialist (Junior Level) 🚗📊
 
 I bridge the gap between complex datasets and strategic business decisions. With a deep passion for the automotive sector,
 I leverage Python, SQL, and predictive analytics to uncover hidden operational efficiencies, optimize fleet performance, and analyze market pricing.
@@ -15,7 +15,7 @@ I leverage Python, SQL, and predictive analytics to uncover hidden operational e
 ---
 
 ## 🚗 Featured Data Portfolio
-
+## 🏆 Core Industrial & Predictive Maintenance Projects
 ### 🧠 Predictive Analytics & Machine Learning & Deep Learning (Advanced Projects)
 * **[MetroPT3 Air Compressor Anomaly Detection: Unsupervised Predictive Maintenance](https://github.com/faridghattas/MetroPT3-Air-Compressor-Anomaly-Detection)** 🚇⚙️
   Engineered a physics-informed anomaly detection pipeline for a metro train's braking air compressor using the benchmark **MetroPT Dataset**. Implemented **One-Class SVM (RBF Kernel)** and optimized training execution via 10% stratified sampling to bypass high computational complexity ($O(N^2)$). Successfully captured multivariate degradation trends and air leak signatures, boosting failure **Recall from 2% (Baseline Isolation Forest) to 99%** 🚀. Developed a live interactive **Streamlit Dashboard** for real-time telemetry tracking and failure alert deployment.
@@ -28,6 +28,7 @@ I leverage Python, SQL, and predictive analytics to uncover hidden operational e
 Conducted empirical threshold sweeping, optimized data structures via **RobustScaler**, and engineered a temporal 3D sliding window for a Deep Learning
 **LSTM Recurrent Neural Network**. Successfully reduced the baseline prediction error (**RMSE**) by **47.3%**.
 
+### 📚 Foundational ML & Data Explorations
 * **[Sonar Signal Classification](https://github.com/faridghattas/Sonar-Signal-Classification)** 🗺️
   Implementing Logistic Regression for binary classification of acoustic signals—highly applicable to automotive predictive maintenance.
 
