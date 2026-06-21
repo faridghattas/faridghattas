@@ -1,8 +1,6 @@
 # Hi there, I'm Farid Ghattas 👋
-### Automotive Engineer (Data Science Transition) | Reliability & Predictive Maintenance Analytics Specialist.Predictive Maintenance Specialist (Junior Level) 🚗📊
-
-I bridge the gap between complex datasets and strategic business decisions. With a deep passion for the automotive sector,
-I leverage Python, SQL, and predictive analytics to uncover hidden operational efficiencies, optimize fleet performance, and analyze market pricing.
+### Automotive Engineer | Predictive Maintenance & Industrial Analytics Specialist 🚗📊
+Passionate about bridging the gap between mechanical domain expertise and data science. I leverage Python, SQL, and Machine Learning to build physics-informed pipelines that detect anomalies, predict equipment RUL, and optimize industrial efficiency.
 
 ---
 
