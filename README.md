@@ -6,7 +6,7 @@ Passionate about bridging the gap between mechanical domain expertise and data s
 
 ## 🛠️ Technical Toolbox
 - **Data Analysis:** Python (Pandas, NumPy, SciPy), SQL
-- **Machine Learning & Deep Learning:** Scikit-Learn (Random Forest, One-Class SVM, Isolation Forest, KNN), TensorFlow, Keras (LSTM)
+- **Machine Learning & Deep Learning:** Scikit-Learn (Random Forest, One-Class SVM, Isolation Forest, KNN), TensorFlow, Keras (1D-CNN, LSTM)
 - **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
 - **Platforms & Tools:** Git, GitHub, Jupyter Notebook, Kaggle
 
@@ -14,6 +14,9 @@ Passionate about bridging the gap between mechanical domain expertise and data s
 
 ## 🚗 Featured Data Portfolio
 ### 🧠 Advanced Predictive Maintenance (Machine Learning & Deep Learning).
+* **[UConn Gearbox Fault Diagnosis: Physics-Informed AI & Deep Learning](https://github.com/faridghattas/predictive-maintenance-uconn-gearbox)** ⚙️🚗
+  Architected an industrial-grade Health Management pipeline using the high-frequency **UConn Gearbox Dataset** to diagnose 9 structural gearbox states (including 5 progressive levels of gear chipping severity). Developed a hybrid approach comparing a physics-informed **Random Forest Classifier** (utilizing extracted features like RMS and Kurtosis) against an end-to-end **1D-Convolutional Neural Network (1D-CNN)**. Explicitly addressed and mitigated **Temporal Data Leakage** using a strict **Sequential Block Split**, achieving verified **99.47% accuracy on ML** and **100% absolute separation on Deep Learning** 🚀.
+
 * **[MetroPT3 Air Compressor Anomaly Detection: Unsupervised Predictive Maintenance](https://github.com/faridghattas/MetroPT3-Air-Compressor-Anomaly-Detection)** 🚇⚙️
   Engineered a physics-informed anomaly detection pipeline for a metro train's braking air compressor using the benchmark **MetroPT Dataset**. Implemented **One-Class SVM (RBF Kernel)** and optimized training execution via 10% stratified sampling to bypass high computational complexity ($O(N^2)$). Successfully captured multivariate degradation trends and air leak signatures, boosting failure **Recall from 2% (Baseline Isolation Forest) to 99%** 🚀.
 
