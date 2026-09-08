@@ -10,6 +10,14 @@ Passionate about bridging the gap between mechanical domain expertise and data s
 - **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
 - **Platforms & Tools:** Git, GitHub, Jupyter Notebook, Kaggle
 
+### 🛠️ Technical Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## 🚗 Featured Data Portfolio
