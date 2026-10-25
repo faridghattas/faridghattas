@@ -5,12 +5,6 @@ Passionate about bridging the gap between mechanical domain expertise and data s
 ---
 
 ## 🛠️ Technical Toolbox
-- **Data Analysis:** Python (Pandas, NumPy, SciPy), SQL
-- **Machine Learning & Deep Learning:** Scikit-Learn (Random Forest, One-Class SVM, Isolation Forest, KNN), TensorFlow, Keras (1D-CNN, LSTM)
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
-- **Platforms & Tools:** Git, GitHub, Jupyter Notebook, Kaggle
-
-## 🛠️ Technical Toolbox
 - **Data Analysis:** 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
