@@ -1,5 +1,6 @@
 # Hi there, I'm Farid Ghattas 👋
-### Mechanical Engineer | Predictive Maintenance & Industrial data Analytics Specialist | Studying CMRP 🚗📊
+### Predictive Maintenance & Reliability Engineer | Physics-Informed AI & PdM | Industrial Data Analytics | CMRP Candidate
+
 Passionate about bridging the gap between mechanical domain expertise and data science. I leverage Python, SQL, and Machine Learning to build physics-informed pipelines that detect anomalies, predict equipment RUL, and optimize industrial efficiency.
 
 ---
